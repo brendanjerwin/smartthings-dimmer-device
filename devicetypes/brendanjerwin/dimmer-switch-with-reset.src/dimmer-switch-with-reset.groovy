@@ -12,7 +12,7 @@
  *
  */
 metadata {
-	definition (name: "Dimmer Switch (Reset)", namespace: "brendanjerwin", author: "Brendan Erwin", ocfDeviceType: "oic.d.light") {
+	definition (name: "Dimmer Switch With Reset", namespace: "brendanjerwin", author: "Brendan Erwin", ocfDeviceType: "oic.d.light") {
 		capability "Switch Level"
 		capability "Actuator"
 		capability "Indicator"
